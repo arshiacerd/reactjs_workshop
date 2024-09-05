@@ -1,0 +1,55 @@
+{
+    "products": [
+      {
+        "id": "001",
+        "name": "Wireless Mouse",
+        "description": "A high-precision wireless mouse with ergonomic design.",
+        "price": 29.99,
+        "category": "Electronics",
+        "inStock": true,
+        "rating": 4.5,
+        "imageUrl": "https://example.com/images/wireless-mouse.jpg"
+      },
+      {
+        "id": "002",
+        "name": "Bluetooth Headphones",
+        "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+        "price": 89.99,
+        "category": "Electronics",
+        "inStock": false,
+        "rating": 4.7,
+        "imageUrl": "https://example.com/images/bluetooth-headphones.jpg"
+      },
+      {
+        "id": "003",
+        "name": "Coffee Maker",
+        "description": "A programmable coffee maker with a 12-cup capacity.",
+        "price": 49.99,
+        "category": "Home Appliances",
+        "inStock": true,
+        "rating": 4.3,
+        "imageUrl": "https://example.com/images/coffee-maker.jpg"
+      },
+      {
+        "id": "004",
+        "name": "Smartphone Stand",
+        "description": "Adjustable smartphone stand with anti-slip base.",
+        "price": 15.99,
+        "category": "Accessories",
+        "inStock": true,
+        "rating": 4.2,
+        "imageUrl": "https://example.com/images/smartphone-stand.jpg"
+      },
+      {
+        "id": "005",
+        "name": "Desk Organizer",
+        "description": "A multi-functional desk organizer with compartments for pens, notes, and gadgets.",
+        "price": 22.49,
+        "category": "Office Supplies",
+        "inStock": true,
+        "rating": 4.6,
+        "imageUrl": "https://example.com/images/desk-organizer.jpg"
+      }
+    ]
+  }
+  
