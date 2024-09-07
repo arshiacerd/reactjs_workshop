@@ -1,0 +1,21 @@
+https://drive.google.com/file/d/1fX19ZfVb2uGHJmwFQVpgZ4XiR6tZZ8WA/view?usp=sharing(recording)
+
+folder => react install
+react router install
+components / pages => folder
+FileName.jsx
+return => 1  (<></>)
+pages
+.json
+map()
+app.jsx =>  routes -> route
+main.js> BrowserRouter
+Navbar => Link -> to
+props(passing data from parent to child)
+let [num, setNum]   = useState(1)
+
+
+
+
+
+
